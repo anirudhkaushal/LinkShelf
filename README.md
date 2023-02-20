@@ -10,7 +10,7 @@ Individual project, submitted by Anirudh Kaushal
 
 ## Project Code:
 
-All the project code is incluced in the repository.
+All the project code is incluced in this repository.
 
 ## Project Documentation:
 
