@@ -10,9 +10,13 @@ Individual project, submitted by Anirudh Kaushal
 
 ## Project Code:
 
+All the project code is incluced in the repository.
+
 ## Project Documentation:
 
-## Video Presentation:
+To view the project documentation, click on the 'LinkShelf_Documentation.pdf' file included in this repository.
+
+
 
 
 
